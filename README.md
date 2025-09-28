@@ -1,3 +1,4 @@
+![IMG_0421](https://github.com/user-attachments/assets/db03b932-15af-4265-9f45-62f7b0d3a5b8)
 # BatchImageMerger
 
 Batch image merger with configurable amount of processed images per operation.
